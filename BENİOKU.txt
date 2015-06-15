@@ -1,0 +1,19 @@
+MATLAB/VÝDEO klasörü altýnda raporda anlatýlan programý(main.m) 
+ve videolarý(viptraffic.avi,pend.mp4,viptrain.avi,newton.mp4) bulabilirsiniz.
+not: raporu hazýrladýktan sonra renk konusunda ufak deðiþikler yaptým.
+veya kendi videolarýnýzý kullanabilirsiniz
+(bunun için main.m in ilk satýrlarýnda bulundan videoreader fonksiyonun içini deðiþtirmelisiniz.)
+(!!!!!!   .mp4 uzantýlý videolarýn matlabde decode edilmesi uzun sürebiliyor)
+(sonuçlar duruma göre OPTÝKAKÝS.avi veya ARKAPLANCÝKARMA.avi dosyalarýna kaydedilmektedir.
+------------------------------------------------------------------------------------------------
+MATLAB/WEBCAM  klasörü altýnda gerçek zamanlý webcam üzerinden optik akýþ hesaplayan programa ulaþabilirsiniz
+(webcam.m)
+not !!! webcam.m i kapattýðýnýzda programý baþtan çalýþtýrmak için matlabi komple kapatmanýz gerekmektedir. webcam açýk kalýyor yoksa .
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+PYTHON klasörü altýnda main.py dosyasýný çalýþtýrarak da algoritmanýn pythonda gerçeklemesini görebilir ve gerçek zamanlý olarak optik akýþý 2 farklý gösterimle görebilir(programý çalýþtýrdýktan sonra rakam tuþlarýyla farklý modlarý deneyebilirsiniz.) 
+!!!! opencv/numpy kütüphaneleri yüklü deðilse çalýþtýramazsýnýz. .exe haline getirdiðim versiyon maalesef yüksek boyutlu olduðu için ninovaya yükleyemedim.
+*-----------------------------------------------------------------------------------------------
+Not : Bütün programlar matlabr2013b  ve windows 8.1 ortamýnda denenmiþtir.
+sorun olmasý halinde iletiþim:
+acarcicek@itu.edu.tr
